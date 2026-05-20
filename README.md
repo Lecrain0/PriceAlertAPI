@@ -1,7 +1,6 @@
-# Bu proje, örnek bir ekosistem olarak aktif olarak geliştirilmektedir. Katkılarınız ve geri bildirimleriniz memnuniyetle karşılanacaktır!
-
-
 # 🔔 PriceAlertAPI
+
+> 🚀 Bu proje, örnek bir ekosistem olarak aktif olarak geliştirilmektedir. Katkılarınız ve geri bildirimleriniz memnuniyetle karşılanacaktır!
 
 Ürün fiyatlarını takip eden ve hedef fiyata ulaşıldığında e-posta bildirimi gönderen bir ASP.NET Core Web API'si.
 
